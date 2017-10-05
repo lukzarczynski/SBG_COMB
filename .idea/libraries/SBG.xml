@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SBG">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../SBG" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SBG/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../SBG/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
