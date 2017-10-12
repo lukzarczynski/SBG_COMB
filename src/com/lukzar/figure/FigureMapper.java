@@ -1,6 +1,5 @@
 package com.lukzar.figure;
 
-import com.lukzar.model.Piece;
 import com.lukzar.model.Values;
 
 /**
@@ -8,7 +7,7 @@ import com.lukzar.model.Values;
  */
 public class FigureMapper {
 
-    public Values getValues(Piece piece) {
+    public Values getValues() {
         return new Values();
     }
 }

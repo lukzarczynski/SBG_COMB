@@ -5,7 +5,4 @@ package com.lukzar.model;
  */
 public class Values {
 
-    public double bulkiness;
-    public double agility;
-
 }
